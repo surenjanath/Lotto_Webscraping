@@ -17,7 +17,7 @@ $ pip install pandas
 ```
 
 ## You can find the medium articles here : 
-1. [Webscraping and Data cleaning NLCB Lotto Results [ ARTICLE ]](https://surenjanath.medium.com/automating-spotify-playlist-music-download-spotify-free-version-3ca289bf59f7)
+1. [Webscraping and Data cleaning NLCB Lotto Results [ ARTICLE ]](https://surenjanath.medium.com/webscraping-and-data-cleaning-nlcb-lotto-results-7da0bdab3dc)
 
 
 ## License
